@@ -1,0 +1,41 @@
+body {
+    font-size: 15pt;
+    background-color:SlateBlue;
+    display: block;
+}
+h1{
+  color:DarkSlateBlue;
+  text-shadow:8px 9px 8px DarkOrange;
+  font-family:"Brush Script MT", cursive;
+}
+input{
+font-family:"Brush Script MT", cursive;
+  border-color:#663399;
+  background-color: #4682B4;
+  width:325px;
+}
+.in{
+  color: Goldenrod;
+  background-color:MidnightBlue;
+  border-radius: 19px;
+  width: 45px;
+  
+}
+.int{
+  color: Goldenrod;
+  background-color:MidnightBlue;
+  border-radius: 19px;
+  width: 95px;
+  
+}
+div{
+  background-color:#00FF7F;
+  border-radius: 25px;
+  box-shadow:5px 5px 5px coral;
+}
+p{
+  font-family:Courier New;
+ background-color: #0000CD;
+  color: #FFF8DC;
+  border-radius:0px 0px 25px 25px;
+}
